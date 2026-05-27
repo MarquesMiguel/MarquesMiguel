@@ -1,8 +1,14 @@
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0D1117&text=Miguel%20Marques&reversal=false&fontColor=C9D1D9&textBg=false
+" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=Wake+up,+User.;+the+Matrix+has+you.;follow+the+white+rabbit.;%3E+UFRJ+%2F%2F+Ci%C3%AAncias+Matem%C3%A1ticas+e+da+Terra;%3E+Python+%7C+Pandas+%7C+Flask+%7C+Power+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=the+Matrix+has+you.;follow+the+white+rabbit.;%3E+UFRJ+%2F%2F+Ci%C3%AAncias+Matem%C3%A1ticas+e+da+Terra;%3E+Python+%7C+Pandas+%7C+Flask+%7C+Power+BI)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,8 +38,6 @@ class Miguel:
     interesses   = ["Computação Científica", "Data Science", "IoT", "Full Stack"]
     idiomas      = {"Português": "nativo", "Inglês": "intermediário"}
 
-    def missão(self):
-        return "Transformar dados e matemática em soluções reais."
 ```
 
 ---
@@ -65,50 +69,9 @@ class Miguel:
 
 ---
 
-## `// stats`
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33&icon_color=00ff41&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=007a1e"/>
-</div>
-
----
-
-## `// projetos`
 
 <div align="center">
 
-| `projeto` | `descrição` | `stack` |
-|-----------|-------------|---------|
-| **Algoritmos** | Estruturas de dados e prog. competitiva | `Python` `C++` |
-| **Full Stack Apps** | Aplicações web ponta a ponta | `Flask` `HTML` `CSS` |
-| **Data Analysis** | Análise e dashboards de dados | `Pandas` `Power BI` |
-| **IoT Projects** | Integração de hardware e software | `Python` `C++` |
-
-</div>
-
----
-
-## `// ufrj`
-
-```bash
-$ ssh miguel@ilha-do-fundao.ufrj.br
-
-  curso:    Ciências Matemáticas e da Terra
-  período:  1º — sistema inicializado
-  status:   online
-
-  > "há uma diferença entre conhecer o caminho e percorrê-lo."
-```
-
----
-
-<div align="center">
+  ![Visitors](https://komarev.com/ghpvc/?username=MarquesMiguel&color=00ff41&style=flat-square&label=agents+detected)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-  ![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00ff41&style=flat-square&label=agents+detected)
 </div>
