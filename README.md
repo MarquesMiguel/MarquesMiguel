@@ -1,12 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=200&section=header&text=Miguel%20Marques&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=Math%20%C2%B7%20Data%20%C2%B7%20Code&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=200&section=header&text=Miguel%20Marques&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=_+escolha+uma+p%C3%ADlula&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=_+iniciando+sistema...;%3E+UFRJ+%2F%2F+Ci%C3%AAncias+Matem%C3%A1ticas+e+da+Terra;%3E+stack%3A+Python+%7C+Pandas+%7C+Flask+%7C+Power+BI;%3E+status%3A+transformando+dados+em+solucoes)](https://git.io/typing-svg)
+```
+01001101 01101001 01100111 01110101 01100101 01101100
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+wake+up%2C+Miguel...;%3E+the+Matrix+has+you.;%3E+follow+the+white+rabbit.;%3E+knock%2C+knock.;%3E+carregando%3A+Python+%7C+Pandas+%7C+Flask+%7C+Power+BI;%3E+UFRJ+%2F%2F+Ci%C3%AAncias+Matem%C3%A1ticas+e+da+Terra)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"Você tomou a pílula vermelha — agora vai ver até onde vai a toca do coelho."*
+> — Morpheus
 
 </div>
 
@@ -14,12 +27,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miguel-marques-26081b332">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/>
   </a>
   <a href="mailto:miguelmcplacido@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00ff41?style=for-the-badge&logo=gmail&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff41"/>
   </a>
-  <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-003b00?style=for-the-badge&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-000000?style=for-the-badge&logoColor=00ff41"/>
 </div>
 
 <br/>
@@ -29,6 +42,8 @@
 ## `// WHOAMI`
 
 ```python
+# descriptografia em andamento...
+
 class Miguel:
     universidade = "UFRJ — Ciências Matemáticas e da Terra"
     foco         = ["Análise de Dados", "Desenvolvimento Web", "Matemática Aplicada"]
@@ -36,8 +51,11 @@ class Miguel:
     interesses   = ["Computação Científica", "Data Science", "IoT", "Full Stack"]
     idiomas      = {"Português": "nativo", "Inglês": "intermediário"}
 
-    def missão(self):
-        return "Transformar dados e matemática em soluções reais."
+    def escolha(self, pilula: str) -> str:
+        if pilula == "azul":
+            return "fim da história — acorda na cama, acredita no que quiser."
+        elif pilula == "vermelha":
+            return "fica no País das Maravilhas — e eu te mostro até onde vai a toca."
 ```
 
 ---
@@ -45,6 +63,10 @@ class Miguel:
 ## `// STACK`
 
 <div align="center">
+
+```
+ミ★ carregando módulos da Matrix... ★彡
+```
 
 ### `> dados & backend`
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
@@ -72,12 +94,16 @@ class Miguel:
 ## `// STATS`
 
 <div align="center">
+
+```
+> acessando registros do sistema...
+```
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33&icon_color=00ff41&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33"/>
-</div>
 
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=007a1e" />
+
 </div>
 
 ---
@@ -85,6 +111,11 @@ class Miguel:
 ## `// PROJETOS`
 
 <div align="center">
+
+```
+> não existe colher.
+> existe apenas código.
+```
 
 | `projeto` | `descrição` | `stack` |
 |-----------|-------------|---------|
@@ -100,27 +131,39 @@ class Miguel:
 ## `// UFRJ`
 
 ```bash
-$ whoami --location
+# descriptografando localização...
 
-📍 Ilha do Fundão — Rio de Janeiro, RJ
-   └── Universidade Federal do Rio de Janeiro
-        ├── curso:    Ciências Matemáticas e da Terra
-        ├── período:  1º — em andamento
-        └── missão:   transformar equações em código
+$ ssh miguel@ilha-do-fundao.ufrj.br
+
+Connected to: Universidade Federal do Rio de Janeiro
+Curso:        Ciências Matemáticas e da Terra
+Período:      1º — sistema inicializado
+Status:       online
+
+> "Eu sei kung fu."
+> "Show me."
 ```
+
+---
+
+<div align="center">
+
+```
+ア イ ウ エ オ カ キ ク ケ コ サ シ ス セ ソ
+```
+
+*há uma diferença entre conhecer o caminho e percorrê-lo.*
+
+```
+ア イ ウ エ オ カ キ ク ケ コ サ シ ス セ ソ
+```
+
+</div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-  ![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00ff41&style=flat-square&label=visitors)
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=MarquesMiguel&color=a78bfa&style=flat-square&label=👁️+visitantes)
-  
-  **Feito com 💜 e muito café ☕ — Rio de Janeiro**
+  ![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00ff41&style=flat-square&label=agents+detected)
 </div>
