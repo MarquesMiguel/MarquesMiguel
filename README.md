@@ -69,36 +69,6 @@ class Miguel:
 
 ---
 
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| 🔢 **Algoritmos** | Implementações de estruturas de dados e prog. competitiva | `Python` `C++` |
-| 🌐 **Full Stack Apps** | Aplicações web ponta a ponta | `Flask` `HTML` `CSS` |
-| 📊 **Data Analysis** | Análise e visualização de dados com dashboards | `Pandas` `Power BI` |
-| 🔌 **IoT Projects** | Sistemas com integração de hardware e software | `Python` `C++` |
-
-</div>
-
----
-
-## 🧮 Matemática que move o código
-
-<div align="center">
-
-```
-∫ paixão dt  +  ∇(esforço)  =  resultado
-```
-
-*Cálculo · Álgebra Linear · Análise Matemática*
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
   
