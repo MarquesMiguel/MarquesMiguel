@@ -72,7 +72,7 @@ class Miguel:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
   
-  ![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=a78bfa&style=flat-square&label=👁️+visitantes)
+  ![Visitors](https://komarev.com/ghpvc/?username=MarquesMiguel&color=a78bfa&style=flat-square&label=👁️+visitantes)
   
   **Feito com 💜 e muito café ☕ — Rio de Janeiro**
 </div>
