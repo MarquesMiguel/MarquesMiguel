@@ -1,25 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:00ff41&height=200&section=header&text=Miguel%20Marques&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=_+escolha+uma+p%C3%ADlula&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:000000&height=180&section=header&text=Miguel%20Marques&fontSize=52&fontColor=00ff41&fontAlignY=40&desc=wake%20up%2C%20Miguel...&descAlignY=62&descSize=16&descColor=4ade80&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-```
-01001101 01101001 01100111 01110101 01100101 01101100
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+wake+up%2C+Miguel...;%3E+the+Matrix+has+you.;%3E+follow+the+white+rabbit.;%3E+knock%2C+knock.;%3E+carregando%3A+Python+%7C+Pandas+%7C+Flask+%7C+Power+BI;%3E+UFRJ+%2F%2F+Ci%C3%AAncias+Matem%C3%A1ticas+e+da+Terra)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> *"Você tomou a pílula vermelha — agora vai ver até onde vai a toca do coelho."*
-> — Morpheus
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=the+Matrix+has+you.;follow+the+white+rabbit.;%3E+UFRJ+%2F%2F+Ci%C3%AAncias+Matem%C3%A1ticas+e+da+Terra;%3E+Python+%7C+Pandas+%7C+Flask+%7C+Power+BI)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,11 +26,9 @@
 
 ---
 
-## `// WHOAMI`
+## `// whoami`
 
 ```python
-# descriptografia em andamento...
-
 class Miguel:
     universidade = "UFRJ — Ciências Matemáticas e da Terra"
     foco         = ["Análise de Dados", "Desenvolvimento Web", "Matemática Aplicada"]
@@ -51,22 +36,15 @@ class Miguel:
     interesses   = ["Computação Científica", "Data Science", "IoT", "Full Stack"]
     idiomas      = {"Português": "nativo", "Inglês": "intermediário"}
 
-    def escolha(self, pilula: str) -> str:
-        if pilula == "azul":
-            return "fim da história — acorda na cama, acredita no que quiser."
-        elif pilula == "vermelha":
-            return "fica no País das Maravilhas — e eu te mostro até onde vai a toca."
+    def missão(self):
+        return "Transformar dados e matemática em soluções reais."
 ```
 
 ---
 
-## `// STACK`
+## `// stack`
 
 <div align="center">
-
-```
-ミ★ carregando módulos da Matrix... ★彡
-```
 
 ### `> dados & backend`
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
@@ -91,31 +69,22 @@ class Miguel:
 
 ---
 
-## `// STATS`
+## `// stats`
 
 <div align="center">
-
-```
-> acessando registros do sistema...
-```
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33&icon_color=00ff41&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33"/>
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=007a1e" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=007a1e"/>
 </div>
 
 ---
 
-## `// PROJETOS`
+## `// projetos`
 
 <div align="center">
-
-```
-> não existe colher.
-> existe apenas código.
-```
 
 | `projeto` | `descrição` | `stack` |
 |-----------|-------------|---------|
@@ -128,42 +97,22 @@ class Miguel:
 
 ---
 
-## `// UFRJ`
+## `// ufrj`
 
 ```bash
-# descriptografando localização...
-
 $ ssh miguel@ilha-do-fundao.ufrj.br
 
-Connected to: Universidade Federal do Rio de Janeiro
-Curso:        Ciências Matemáticas e da Terra
-Período:      1º — sistema inicializado
-Status:       online
+  curso:    Ciências Matemáticas e da Terra
+  período:  1º — sistema inicializado
+  status:   online
 
-> "Eu sei kung fu."
-> "Show me."
+  > "há uma diferença entre conhecer o caminho e percorrê-lo."
 ```
 
 ---
 
 <div align="center">
-
-```
-ア イ ウ エ オ カ キ ク ケ コ サ シ ス セ ソ
-```
-
-*há uma diferença entre conhecer o caminho e percorrê-lo.*
-
-```
-ア イ ウ エ オ カ キ ク ケ コ サ シ ス セ ソ
-```
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
 
   ![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00ff41&style=flat-square&label=agents+detected)
 </div>
