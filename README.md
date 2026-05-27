@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b00,100:000000&height=180&section=header&text=Miguel%20Marques&fontSize=52&fontColor=00ff41&fontAlignY=40&desc=wake%20up%2C%20Miguel...&descAlignY=62&descSize=16&descColor=4ade80&animation=fadeIn" width="100%"/>
-</div>
 
-<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=the+Matrix+has+you.;follow+the+white+rabbit.;%3E+UFRJ+%2F%2F+Ci%C3%AAncias+Matem%C3%A1ticas+e+da+Terra;%3E+Python+%7C+Pandas+%7C+Flask+%7C+Power+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=Wake+up,+User.;+the+Matrix+has+you.;follow+the+white+rabbit.;%3E+UFRJ+%2F%2F+Ci%C3%AAncias+Matem%C3%A1ticas+e+da+Terra;%3E+Python+%7C+Pandas+%7C+Flask+%7C+Power+BI)](https://git.io/typing-svg)
 
 </div>
 
