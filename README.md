@@ -1,76 +1,35 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Miguel%20Marques&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Math%20%C2%B7%20Data%20%C2%B7%20Code&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-</div>
+# Miguel Marques Ⓜ️
 
-<br/>
+Hi, I'm Miguel Marques, Python developer and UFRJ student, Rio de Janeiro.
+I like problems that seem hard but have elegant solutions.
+I work mainly with Python, Flask, SQL, Pandas and React.
+Currently studying for the Brazilian Olympiad in Informatics (OBI).
+Always open to interesting projects and conversations.
 
-<div align="center">
+<br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ci%C3%AAncias+Matem%C3%A1ticas+e+da+Terra+%E2%80%94+UFRJ;Python+%7C+Pandas+%7C+Flask+%7C+Power+BI;Transforma+dados+em+decis%C3%B5es.)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/miguel-marques-26081b332">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:miguelmcplacido@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Rio%20de%20Janeiro%20%F0%9F%87%A7%F0%9F%87%B7-111827?style=for-the-badge"/>
-</div>
-
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e0f0d?style=for-the-badge&logo=vercel&logoColor=c8f060)](https://portifolio-dev-v1.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatomiguelmarquesdev@gmail.com)
 
 ---
 
-## ⚡ Sobre mim
+### 🛠 Stack
 
-```python
-class Miguel:
-    universidade = "UFRJ — Ciências Matemáticas e da Terra"
-    foco         = ["Análise de Dados", "Desenvolvimento Web", "Matemática Aplicada"]
-    stack        = ["Python", "Pandas", "Flask", "Power BI", "C++"]
-    interesses   = ["Computação Científica", "Data Science", "IoT", "Full Stack"]
-    idiomas      = {"Português": "nativo", "Inglês": "intermediário"}
-
-```
-
----
-
-## 🛠️ Stack & Ferramentas
-
-<div align="center">
-
-### 🐍 Dados & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 📊 Visualização & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 💻 Outras Linguagens
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Ferramentas
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
 
 ---
 
-<div align="center">
 
+### 🔥 Contribution Graph
 
-  ![Visitors](https://komarev.com/ghpvc/?username=MarquesMiguel&color=a78bfa&style=flat-square&label=👁️+visitantes)
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarquesMiguel&bg_color=0e0f0d&color=c8f060&line=c8f060&point=e8e6df&area=true&hide_border=false&border_color=2a2b28" />
+</p>
