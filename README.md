@@ -3,7 +3,6 @@
 Hi, I'm Miguel Marques, Python developer and UFRJ student, Rio de Janeiro.
 I like problems that seem hard but have elegant solutions.
 I work mainly with Python, Flask, SQL, Pandas and React.
-Currently studying for the Brazilian Olympiad in Informatics (OBI).
 Always open to interesting projects and conversations.
 
 <br>
